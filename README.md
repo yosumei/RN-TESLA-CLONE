@@ -1,3 +1,9 @@
+
+![ScreenRecording2024-04-11at22 22 17-ezgif com-video-to-gif-converter](https://github.com/yosumei/RN-TESLA-CLONE/assets/147663700/d1ae0958-ea1a-4d6a-abc9-68ec753c2015)
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
